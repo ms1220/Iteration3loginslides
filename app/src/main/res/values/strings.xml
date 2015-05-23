@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iteration 3 login slides</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginMessage">ERROR</string>
+    <string name="passEntered"></string>
+    <string name="mailEntered"></string>
+</resources>
